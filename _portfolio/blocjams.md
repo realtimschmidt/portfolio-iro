@@ -3,7 +3,7 @@ layout: post
 title: BlocJams
 feature-img: "img/bloc_jams_feature_img.png"
 thumbnail-path: "img/bloc_jams_case_study_thumb.png"
-short-description: BlocJams is a web based music player
+short-description: A JS music player
 
 ---
 <h2>Summary</h2>
