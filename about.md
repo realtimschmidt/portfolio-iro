@@ -5,8 +5,8 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I'm a freelance developer with a few regular clients.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+When I'm not making things on the Internet, you can find me <a href="/img/tim-city-of-lakes-loppet.jpg" target="_blank">cross country skiing</a>, <a href="https://www.flickr.com/photos/timothyschmidt/18182009812/" target="_blank">knitting sweaters</a>, wathcing baseball and enjoying whichever city I happen to be living in.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Interested in working with me? <a href="/contact">Send me a note</a> and we'll chat soon.
