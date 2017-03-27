@@ -13,14 +13,14 @@ The web application BlocJams is a demonstration of my Frontend web development k
 Shortly after enrolling in Bloc, a coding bootcamp, I was assigned a project to solve typical Frontend developer challenges and to understand best practices in HTML, CSS and JavaScript. 
 
 <h2>Problem</h2>
-The goal of creating BlocJams was to learn as much as I could about Frontend development by creating a working music player from scratch. In order to create this music player, I had to become comfortable with concepts I hadn't worked with before:
+The goal of BlocJams was to learn as much as I could about Frontend development by creating a working music player from scratch. In order to create this music player, I had to become comfortable with concepts I hadn't worked with before:
 * Git & GitHub
 * JavaScript, DOM Scripting, jQuery
 
 <h2>Solution</h2>
 
 <h4>Git & GitHub</h4>
-Learning about Git & GitHub was a dream. I had worked in content managment systems in the passed and none of them do a great job of tracking detailed updates. I didn't learn Git & GitHub overnight, it takes longer than that. Making BlocJams required me to create branches to create and test additional features of the music player. Committing changes, pushing them to the feature branch, having them reviewed by my mentor and merging branches with the master every single day, week after week really gave me a solid understanding of Git & GitHub.
+Learning about Git & GitHub was a dream. I had worked in content managment systems in the passed and none of them do a great job of tracking detailed updates. I didn't learn Git & GitHub overnight, it takes longer than that. Making BlocJams required me to create branches to build and test additional features of the music player. Committing changes, pushing them to the feature branch, having them reviewed by my mentor and merging branches with the master every single day, week after week really gave me a solid understanding of Git & GitHub.
 
 <h4>JavaScript, DOM Scripting & jQuery</h4>
 Prior to enrolling at Bloc, I had a few years experience working with HTML & CSS so I felt pretty comfortable with basic Frontend development concepts. JavaScript was new to me though. The curriculum Bloc provided pointed me to current blog posts and excellent resources like specific <a href="https://www.w3schools.com/">w3schools</a> and <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a> articles relevant to the issues I needed to solve. 
