@@ -47,3 +47,10 @@ header {
     @extend %padding-regular;
   }
 }
+ol, ul {
+  list-style-position: outside;
+  padding: 0 20px;
+}
+ou li, ul li {
+    margin: 10px 0;
+}
