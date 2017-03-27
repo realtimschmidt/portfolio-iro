@@ -88,7 +88,11 @@ p, ol, ul, dl, .math-display {
   width: 100%;
 }
 ol, ul {
-  list-style-position: inside;
+  list-style-position: outside;
+  padding: 0 20px;
+}
+ou li, ul li {
+    margin: 10px 0;
 }
 hr {
   border: 0;
