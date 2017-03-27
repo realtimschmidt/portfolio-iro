@@ -16,3 +16,12 @@
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+
+
+ul {
+    list-style-position: outside;
+    padding: 0 20px;
+}
+ul li {
+    margin: 10px 0;
+}

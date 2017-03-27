@@ -30,12 +30,14 @@ var describingThings = function() {
 
 Wait, lots of devolopers do this?? In a moment, all my past failures that could have been avoided flashed before me:
 
-Any developer can jump in and quickly understand what the original developer intended.<br/>
-If the original developer wants to go on vacation, they can!<br/>
-If the original developer feels a little sick, they can stay home and feel confident in their team to understand the code.<br/>
-This means fewer lengthy and disorganized meetings. We're developers after all, we want to make things, not talk about making things.<br/>
-A newly hired developer can begin to understand how their new coworkers think and work.<br/>
-Developers can take their full parental leave and know they'll be able to catch up when they return to work.
+<ul>
+    <li>Any developer can jump in and quickly understand what the original developer intended.</li>
+    <li>If the original developer wants to go on vacation, they can!</li>
+    <li>If the original developer feels a little sick, they can stay home and feel confident in their team to understand the code.</li>
+    <li>This means fewer lengthy and disorganized meetings. We're developers after all, we want to make things, not talk about making things.</li>
+    <li>A newly hired developer can begin to understand how their new coworkers think and work.</li>
+    <li>Developers can take their full parental leave and know they'll be able to catch up when they return to work.</li>
+</ul>
 
 Ok, maybe documentation won't be able to completely fulfill each of these points but, it certainly helps developers and their team to better understand the problem they're trying to solve.
 
