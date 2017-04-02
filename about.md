@@ -29,4 +29,5 @@ Interested in working with me? <a href="/contact">Send me a note</a> and we'll c
 <a href="http://www.goodreads.com/book/show/56829.Hackers">Hackers: Heroes of the Computer Revolution</a>: Steven Levy<br/>
 <a href="http://www.goodreads.com/book/show/26329.Emotional_Intelligence">Emotional Intelligence: Why It Can Matter More Than IQ</a>: Daniel Goleman
 
-Have a recommendation for me? <a href="/contact">Send me a note</a> and I'll add it to my list.
+Have a recommendation for me? <br/>
+<a href="/contact">Send me a note</a> and I'll add it to my list.
