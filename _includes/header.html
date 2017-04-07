@@ -17,14 +17,9 @@
 		<ul>
 			{% for page in site.pages %}
 			{% if page.title and page.hide != true %}
-			<!--<li>
+			<li>
 				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
 					{{ page.title }}
-				</a>
-			</li>-->
-            <li>
-				<a class="page-link" href="/about">
-				About
 				</a>
 			</li>
 			{% endif %}

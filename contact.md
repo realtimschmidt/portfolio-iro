@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: Contact
 permalink: /contact/
 feature-img: "img/sample_feature_img.png"
