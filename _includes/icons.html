@@ -23,6 +23,14 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.lastfm %}
+<li>
+	<a href="https://www.last.fm/user/{{ site.theme_settings.lastfm }}" title="{{ site.theme_settings.str_follow_on }} Last.fm">
+		<i class="fa fa-fw fa-lastfm"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.github %}
 <li>
 	<a href="https://github.com/{{ site.theme_settings.github }}" title="{{ site.theme_settings.str_follow_on }} GitHub">
