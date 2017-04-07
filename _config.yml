@@ -20,7 +20,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address:
+  email_address: /contact
   behance:
   bitbucket:
   facebook: "timothy.j.schmidt"
