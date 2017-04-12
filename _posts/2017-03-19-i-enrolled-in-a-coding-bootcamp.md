@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I Enrolled in a Coding Bootcamp
+categories: Developer
 ---
 TL;DR - Coding bootcamps are great. Try Bloc if you're on the move or looking for a remote bootcamp. Some things about me - YAY!
 

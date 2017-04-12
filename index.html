@@ -31,6 +31,9 @@ layout: default
             {{ post.title }}
           </a>
         </h1>
+        <h5>
+          Category: {{ post.categories }}
+        </h5>
         <p class="meta">
           {{ post.date | date: "%B %-d, %Y" }}
         </p>

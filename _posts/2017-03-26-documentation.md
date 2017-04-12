@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Documentation is sexier than you think
+categories: Developer
 ---
 TL;DR - Documentation indirectly improves the user experience by improving the developer experience. Sexy, I know.
 
