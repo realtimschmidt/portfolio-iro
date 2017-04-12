@@ -15,9 +15,9 @@ My father-in-law butt dials me 5-8 times a year. I’m not sure how a butt dial 
 In addition to butt dialing, the Phone App can do quite a lot. At first, the Phone App seems pretty straight forward - make a call then hang up. But it's hiding a few other features. The best resource I've found on the phone app comes directly from Apple and it's free. The <a href="https://itunes.apple.com/us/book/iphone-user-guide-for-ios-10-3/id1134772174?mt=11" target="_blank">iPhone User Guide in iBooks</a> or on <a href="http://help.apple.com/iphone/10/#/iph3c99490e" target="_blank">Apple's website</a>.
 
 
-<a href="https://itunes.apple.com/us/book/iphone-user-guide-for-ios-10-3/id1134772174?mt=11" target="_blank"><img class="center" src="/img/posts/225x225bb.jpg/" alt="iPhone Userguide in iBooks"></a>
+<a href="https://itunes.apple.com/us/book/iphone-user-guide-for-ios-10-3/id1134772174?mt=11" target="_blank"><img class="center" src="/img/posts/225x225bb.jpg/" alt="iPhone User Guide in iBooks"></a>
 <br/>
-<a class="center" href="http://help.apple.com/iphone/10/#/iph3c99490e" target="_blank"><img class="center" src="/img/posts/userguide-225.png/" alt="iPhone Userguide on web"></a>
+<a class="center" href="http://help.apple.com/iphone/10/#/iph3c99490e" target="_blank"><img class="center" src="/img/posts/userguide-225.png/" alt="iPhone User Guide on web"></a>
 <br/>
 The entire user guide has a vast library of content so start with the Phone App section and find a useful feature or two specific to phone calls or voice messages before moving on.
 
