@@ -17,7 +17,7 @@ Interested in working with me? <a href="/contact">Send me a note</a> and we'll c
 <a href="http://www.goodreads.com/book/show/17571564-hyperbole-and-a-half" target="_blank">Hyperbole and a Half</a>: Allie Brosh<br/>
 <a href="http://www.goodreads.com/book/show/27213329-grit" target="_blank">Grit</a>: Angela Duckworth<br/>
 <a href="http://www.goodreads.com/book/show/590652.The_Slight_Edge" target="_blank">The Slight Edge</a>: Jeff Olson<br/>
-<a href="http://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States" target="_blank">A People's History of the United States</a>: Howard Zinn
+<a href="http://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States" target="_blank">A People's History of the United States</a>: Howard Zinn<br/>
 <a href="http://www.goodreads.com/book/show/18077875-essentialism" target="_bland">Essentialism</a>: Greg McKeown<br/>
 <a href="http://www.goodreads.com/book/show/33514.The_Elements_of_Style" target="_blank">The Elements of Style</a>: William Strunk Jr.<br/>
 
