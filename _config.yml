@@ -73,3 +73,9 @@ sass:
   style: :compressed
 
 gems: [jekyll-paginate]
+
+# PLUGINS
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
