@@ -11,6 +11,7 @@ Interested in working with me? <a href="/contact">Send me a note</a> and we'll c
 <br/><br/>
 
 <h2 align="center">Recently Read</h2>
+<a href="https://www.goodreads.com/book/show/13690307-taxes-in-america" targer="_blank">Taxes in America: What Everyone Needs to Know</a>: Leonard E. Burman, Joel Slemrod<br/>
 <a href="http://www.goodreads.com/book/show/11709037-you-are-not-so-smart" target="_blank">You Are Not So Smart</a>: David McRaney<br/>
 <a href="http://www.goodreads.com/book/show/31933250-al-franken-giant-of-the-senate" target="_blank">Al Franken, Giant of the Senate</a>: Al Franken<br/>
 <a href="http://www.goodreads.com/book/show/33514.The_Elements_of_Style" target="_blank">The Elements of Style</a>: William Strunk Jr.<br/>
@@ -23,6 +24,7 @@ Interested in working with me? <a href="/contact">Send me a note</a> and we'll c
 
 
 <h2 align="center">Up Next</h2>
+<a href="https://www.goodreads.com/book/show/113934.The_Goal" target="_blank">The Goal</a>: Eliyahu M. Goldratt, Jeff Cox<br/>
 <a href="https://www.goodreads.com/book/show/10127019-the-lean-startup" target="_blank">The Lean Startup</a>: Eric Ries<br/>
 <a href="http://www.goodreads.com/book/show/8910666-eloquent-javascript" target="_blank">Eloquent JavaScript</a>: Marijn Haverbeke<br/>
 <a href="http://www.goodreads.com/book/show/192832.I_Could_Do_Anything_If_I_Only_Knew_What_It_Was" target="_blank">I Could Do Anything If I Only Knew What It Was</a>: Barbara Sher<br/>
