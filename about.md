@@ -5,10 +5,7 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-I'm a developer in Philadelphia, PA. When I'm not making things on the Internet, you can find me <a href="/img/tim-city-of-lakes-loppet.jpg" target="_blank">cross country skiing</a>, <a href="https://www.flickr.com/photos/timothyschmidt/18182009812/" target="_blank">knitting sweaters</a>, watching baseball and enjoying whichever city I happen to be living in.
-
-Interested in working with me? <a href="/contact">Send me a note</a> and we'll chat soon.
-<br/><br/>
+I'm a developer in Philadelphia and when I'm not interneting, you can find me <a href="/img/tim-city-of-lakes-loppet.jpg" target="_blank">cross country skiing</a>, <a href="https://www.flickr.com/photos/timothyschmidt/18182009812/" target="_blank">knitting sweaters</a>, watching baseball, and enjoying whichever city I happen to be living in.
 
 <h2 align="center">Recently Read</h2>
 <a href="https://www.goodreads.com/book/show/13690307-taxes-in-america" targer="_blank">Taxes in America: What Everyone Needs to Know</a>: Leonard E. Burman, Joel Slemrod<br/>
