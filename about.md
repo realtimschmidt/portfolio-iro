@@ -12,6 +12,7 @@ Interested in working with me? <a href="/contact">Send me a note</a> and we'll c
 
 <h2 align="center">Recently Read</h2>
 <a href="https://www.goodreads.com/book/show/13690307-taxes-in-america" targer="_blank">Taxes in America: What Everyone Needs to Know</a>: Leonard E. Burman, Joel Slemrod<br/>
+<a href="http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People" target="_blank">How to Win Friends and Influence People</a>: Dale Carnegie<br/>
 <a href="http://www.goodreads.com/book/show/11709037-you-are-not-so-smart" target="_blank">You Are Not So Smart</a>: David McRaney<br/>
 <a href="http://www.goodreads.com/book/show/31933250-al-franken-giant-of-the-senate" target="_blank">Al Franken, Giant of the Senate</a>: Al Franken<br/>
 <a href="http://www.goodreads.com/book/show/33514.The_Elements_of_Style" target="_blank">The Elements of Style</a>: William Strunk Jr.<br/>
@@ -30,7 +31,6 @@ Interested in working with me? <a href="/contact">Send me a note</a> and we'll c
 <a href="http://www.goodreads.com/book/show/8910666-eloquent-javascript" target="_blank">Eloquent JavaScript</a>: Marijn Haverbeke<br/>
 <a href="http://www.goodreads.com/book/show/192832.I_Could_Do_Anything_If_I_Only_Knew_What_It_Was" target="_blank">I Could Do Anything If I Only Knew What It Was</a>: Barbara Sher<br/>
 <a href="http://www.goodreads.com/book/show/998.The_Millionaire_Next_Door" target="_blank">The Millionaire Next Door</a>: Thomas J. Stanley<br/>
-<a href="http://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People" target="_blank">How to Win Friends and Influence People</a>: Dale Carnegie<br/>
 <a href="http://www.goodreads.com/book/show/56829.Hackers" target="_blank">Hackers: Heroes of the Computer Revolution</a>: Steven Levy<br/>
 <a href="http://www.goodreads.com/book/show/26329.Emotional_Intelligence" target="_blank">Emotional Intelligence: Why It Can Matter More Than IQ</a>: Daniel Goleman
 
