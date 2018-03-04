@@ -23,6 +23,7 @@ I'm a developer in Philadelphia and when I'm not interneting, you can find me <a
 
 <h2 align="center">Up Next</h2>
 <a href="https://www.goodreads.com/book/show/316767.The_Box" target="_blank">The Box</a>: Marc Levinson<br/>
+<a href="https://www.goodreads.com/book/show/31944601-storming-the-wall" target="_blank">Storming the Wall</a>: Todd Miller<br/>
 <a href="https://www.goodreads.com/book/show/113934.The_Goal" target="_blank">The Goal</a>: Eliyahu M. Goldratt, Jeff Cox<br/>
 <a href="https://www.goodreads.com/book/show/10127019-the-lean-startup" target="_blank">The Lean Startup</a>: Eric Ries<br/>
 <a href="http://www.goodreads.com/book/show/8910666-eloquent-javascript" target="_blank">Eloquent JavaScript</a>: Marijn Haverbeke<br/>
