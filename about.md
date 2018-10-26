@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-I'm a developer in Philadelphia and when I'm not interneting, you can find me <a href="/img/tim-city-of-lakes-loppet.jpg" target="_blank">cross country skiing</a>, <a href="https://www.flickr.com/photos/timothyschmidt/18182009812/" target="_blank">knitting sweaters</a>, watching baseball, and enjoying whichever city I happen to be living in.
+I'm a developer in New York and when I'm not interneting, you can find me <a href="/img/tim-city-of-lakes-loppet.jpg" target="_blank">cross country skiing</a>, <a href="https://www.flickr.com/photos/timothyschmidt/18182009812/" target="_blank">knitting sweaters</a>, watching baseball, and enjoying whichever city I happen to be living in.
 
 <h2 align="center">Recently Read</h2>
 <a href="https://www.goodreads.com/book/show/6792458-the-new-jim-crow" target="_blank">The New Jim Crow: Mass Incarceration in the Age of Colorblindness</a>: Michelle Alexander<br/>
