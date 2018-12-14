@@ -8,6 +8,7 @@ feature-img: "img/sample_feature_img_2.png"
 I'm a developer in New York and when I'm not interneting, you can find me <a href="/img/tim-city-of-lakes-loppet.jpg" target="_blank">cross country skiing</a>, <a href="https://www.flickr.com/photos/timothyschmidt/18182009812/" target="_blank">knitting sweaters</a>, watching baseball, and enjoying whichever city I happen to be living in.
 
 <h2 align="center">Recently Read</h2>
+<a href="https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land" target="_blank">Strangers in Their Own Land</a>: Arlie Russell Hochschild<br/>
 <a href="https://www.goodreads.com/book/show/6792458-the-new-jim-crow" target="_blank">The New Jim Crow: Mass Incarceration in the Age of Colorblindness</a>: Michelle Alexander<br/>
 <a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow" target="_blank">Thinking, Fast and Slow</a>: Daniel Kahneman<br/>
 <a href="https://www.goodreads.com/book/show/22571741-evolving-ourselves?from_search=true" target="_blank">Evolving Ourselves: How Unnatural Selection and Nonrandom Mutation are Changing Life on Earth</a>: Juan Enriquez,  Steve Gullans<br/>
