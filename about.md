@@ -8,6 +8,7 @@ feature-img: "img/sample_feature_img_2.png"
 I'm a developer in New York and when I'm not interneting, you can find me <a href="/img/tim-city-of-lakes-loppet.jpg" target="_blank">cross country skiing</a>, <a href="https://www.flickr.com/photos/timothyschmidt/18182009812/" target="_blank">knitting sweaters</a>, watching baseball, and enjoying whichever city I happen to be living in.
 
 <h2 align="center">Recently Read</h2>
+<a href="https://www.goodreads.com/book/show/39939208-good-and-mad" target="_blank">Good and Mad: The Revolutionary Power of Women's Anger</a>: Rebecca Traister<br/>
 <a href="https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land" target="_blank">Strangers in Their Own Land</a>: Arlie Russell Hochschild<br/>
 <a href="https://www.goodreads.com/book/show/6792458-the-new-jim-crow" target="_blank">The New Jim Crow: Mass Incarceration in the Age of Colorblindness</a>: Michelle Alexander<br/>
 <a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow" target="_blank">Thinking, Fast and Slow</a>: Daniel Kahneman<br/>
@@ -36,6 +37,3 @@ I'm a developer in New York and when I'm not interneting, you can find me <a hre
 <a href="http://www.goodreads.com/book/show/998.The_Millionaire_Next_Door" target="_blank">The Millionaire Next Door</a>: Thomas J. Stanley<br/>
 <a href="http://www.goodreads.com/book/show/56829.Hackers" target="_blank">Hackers: Heroes of the Computer Revolution</a>: Steven Levy<br/>
 <a href="http://www.goodreads.com/book/show/26329.Emotional_Intelligence" target="_blank">Emotional Intelligence: Why It Can Matter More Than IQ</a>: Daniel Goleman
-
-Have a recommendation for me? <br/>
-<a href="/contact">Send me a note</a> and I'll add it to my list.
