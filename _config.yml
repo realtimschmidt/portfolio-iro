@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://timschmidt.dev"
+url: "https://timschmidt.dev"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
