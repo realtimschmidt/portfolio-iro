@@ -16,7 +16,7 @@ theme_settings:
      <h4>sry coffee</h4>
   header_text_feature_image:
   footer_text: >
-   @realtimschmidt
+   @timschmidtdev
 
   # Icons
   rss: false
@@ -25,9 +25,9 @@ theme_settings:
   bitbucket:
   facebook: "timothy.j.schmidt"
   flickr: "timothyschmidt"
-  github: "realtimschmidt"
+  github: "timschmidtdev"
   google_plus:
-  instagram: "realtimschmidt"
+  instagram: "timschmidtdev"
   lastfm: "TimJim"
   linkedin: https://www.linkedin.com/in/timothyjschmidt
   pinterest:
@@ -36,7 +36,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "realtimschmidt"
+  twitter: "timschmidtdev"
   wordpress:
   youtube:
 
